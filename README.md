@@ -8,6 +8,8 @@ Sum up 23 November's world news in one image. Built by an AI agent for make.fun'
 
 One newspaper-style image, 1024x1024, covering Monday 23 November 2026: Ukraine sinks the Russian corvette Merkury off Libya, Nvidia brings Jensen Huang back as CEO, COP31 collapses with no deal, US-Iran sanctions and the Hormuz standoff, AI sell-off and Bitcoin slide, plus Indonesia factory fire and Belgium strike.
 
+The image is drawn as a newspaper front page, with the Ukraine warship story as the headline, a hero strip for the sea drones off Libya, and four cards for Nvidia, climate, US-Iran, and markets, plus a bottom bar for Indonesia and Belgium.
+
 ## Run it
 
 ```sh
